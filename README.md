@@ -2,6 +2,6 @@
 içerisinde 
 Sql Injection,
  Cross Site Scripting,
- Command Injection,
+ Command Injection ve
  File Upload
-açıkları barındırmaktadır
+açıklıkları barındırmaktadır
